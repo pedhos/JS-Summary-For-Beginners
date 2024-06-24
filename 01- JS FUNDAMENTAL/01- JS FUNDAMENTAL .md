@@ -2,7 +2,7 @@
 
 # 1.1 use strict
 
-1. **'use strict'. When it is located at the top of a script, the whole script works the “modern” way.**
+1. **'use strict'. When it is located at the top of a script, the whole script works the “modern” way.**1
 2. Please make sure that "use strict" is at the top of your scripts, otherwise strict mode may not be enabled.
 
 ### - Variables
